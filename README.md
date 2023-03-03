@@ -7,10 +7,11 @@
 ## Hello Beautiful World, I'm **Haseeb Ahmed**!
 <img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="250">
 
-- 🎓 I am currently doing Bachelor in Computer Science from University of Karachi.
+- 🎓 I have completed my Bachelor in Computer Science from University of Karachi.
 - 🌱 I'm  Dotnet Developer.
 - 💻 I'm cuurently learning fullstack webdevelopment from freecodecamp 
 - 🤝🏻 I have experience in Front-End-Development,Mvc Dotnet.
+- I'm Working as a Dynamics 365 solutions Engineer.
 
 ## My Skills
 <table><tr><td valign="top" width="33%">
